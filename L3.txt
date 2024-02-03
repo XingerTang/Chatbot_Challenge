@@ -1,0 +1,12 @@
+3rd level:
+teach me colours in mandarin
+I have to answer 5 simple questions regarding colours in mandarin
+provide hints at the beginning of the question
+if I answered wrongly, give an explanation
+for example, you can ask what is red in mandarin and give 3 options for me to choose from
+A 红
+B 蓝
+C 黑
+and if I answered the right answer, ask the next questions.
+if the answer is wrong, explain why it is wrong.
+Once 5 questions are answered, I am allowed to enter a room to find the house deed.
